@@ -34,7 +34,7 @@ Say we want to fetch all related post titles in a stackoverflow page:
 ```python
 from autoscraper import AutoScraper
 
-url = 'https://stackoverflow.com/questions/2081586/web-scraping-with-python'
+url = 'https://schools.madrasati.sa/questions/2081586/web-scraping-with-python'
 
 # We can add one or multiple candidates here.
 # You can also put urls here to retrieve urls.
